@@ -1,0 +1,9 @@
+main {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*# sourceMappingURL=Main.css.map */
